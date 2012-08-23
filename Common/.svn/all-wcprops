@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/prod/!svn/ver/371799/rps/shelf/jsegars/ProjectEuler/Common
+END
+IntegerExtensions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/prod/!svn/ver/371750/rps/shelf/jsegars/ProjectEuler/Common/IntegerExtensions.cs
+END
+LongExtensions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/prod/!svn/ver/371750/rps/shelf/jsegars/ProjectEuler/Common/LongExtensions.cs
+END
+Common.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/prod/!svn/ver/371799/rps/shelf/jsegars/ProjectEuler/Common/Common.csproj
+END
+StringExtensions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/prod/!svn/ver/371799/rps/shelf/jsegars/ProjectEuler/Common/StringExtensions.cs
+END
